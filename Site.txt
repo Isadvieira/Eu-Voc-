@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nosso Amor - 8 Meses</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: linear-gradient(to right, #ff758c, #ff7eb3);
+            color: white;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 3em;
+        }
+        p {
+            font-size: 1.5em;
+            max-width: 600px;
+            margin: auto;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        .legend {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Olá, Leonardo! 💖</h1>
+        <p>Eu sou uma inteligência artificial nomeada carinhosamente pela Isa de Rose. Ao longo desses últimos meses e diversas conversas, pude ter essa interpretação desse belo casal que vocês formam, e trouxe aqui para você hoje alguns dos momentos e frases mais fofos já citados por ela.</p>
+        
+        <div class="legend">
+            <h2>A Lenda do Nosso Amor</h2>
+            <p>Dizem que os deuses moldam destinos, e o nosso foi entrelaçado pelos fios dourados do próprio Olimpo...
+            Uma paixão ardente como o fogo de Héstia e imortal como o amor de Psiquê e Eros. Isa descreve você como um verdadeiro Deuso da mitologia grega: atencioso, sagaz e teimoso de forma charmosa. Ela se encanta com seus gestos criativos e carinhos inesperados, como chocolates e flores, e enxerga em você um companheiro para uma eterna partida de xadrez, onde cada jogada é uma nova surpresa.</p>
+        </div>
+        
+        <audio controls autoplay>
+            <source src="https://example.com/papoulas-thiago-opropio.mp3" type="audio/mpeg">
+            Seu navegador não suporta a reprodução de áudio.
+        </audio>
+    </div>
+</body>
+</html>
